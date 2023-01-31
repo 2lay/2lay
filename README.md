@@ -1,16 +1,42 @@
-### Hi there 👋
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F764E2&width=435&lines=Hey+%F0%9F%91%8B+I'm+2lay;Python+%2F+C%23+Developer;Leader+of+TMW.gg+and+Uploads.space" alt="Typing SVG" /></a>
+</p>
 
-<!--
-**2lay/2lay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📃 ┃ <a href="https://tmw.gg/">![Weblicious](https://img.shields.io/badge/Minecraft-TMW.gg-brightgreen)</a> <a href="https://uploads.space">![SRMIST](https://img.shields.io/badge/Uploader-Uploads.Space-blue)</a>
+
+🇸🇪  ┃ Sweden 🧆
+
+👀 ┃ ![](https://komarev.com/ghpvc/?username=2lay&color=dc143c)
+
+<br>
+
+### aboutMe.Js:
+
+```javascript
+const 2lay = {
+   pronouns: "he" | "him",
+   code: [HTML,JS,CSS,C#,PYTHON],
+   askMeAbout: ["Web Development","Discord","IOT"],
+   technologies: {
+       frontEnd: [
+           list: {"React", "React"}
+       ],
+       backEnd: [
+           list: {"FastAPI", "MongoDB"}
+       ]
+   ]
+};
+```
+
+### Social Media:
+
+ <p align="center">
+  <a href="https://www.instagram.com/oliweer06/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/><a/>
+  <a href="https://github.com/2lay"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
+  <a href="https://github.com/2lay"><img src="https://img.icons8.com/color/50/000000/discord--v2.png"/><a/>
+</p>
+
+	  
