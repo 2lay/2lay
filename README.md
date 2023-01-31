@@ -19,13 +19,13 @@
 const 2lay = {
    pronouns: "he" | "him",
    code: [HTML,JS,CSS,C#,PYTHON],
-   askMeAbout: ["Web Development","Discord","IOT"],
+   askMeAbout: ["Web Development", "Discord", "IOT"],
    technologies: {
        frontEnd: [
-           list: {"React"}
+           list: {"React", "JavaScript"}
        ],
        backEnd: [
-           list: {"FastAPI", "MongoDB"}
+           list: {"FastAPI", "MongoDB", "VB.NET"}
        ]
    ]
 };
