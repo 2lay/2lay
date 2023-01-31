@@ -22,7 +22,7 @@ const 2lay = {
    askMeAbout: ["Web Development","Discord","IOT"],
    technologies: {
        frontEnd: [
-           list: {"React", "React"}
+           list: {"React"}
        ],
        backEnd: [
            list: {"FastAPI", "MongoDB"}
