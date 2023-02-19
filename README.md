@@ -19,10 +19,10 @@
 two_lay = {
     "pronouns": ["he", "him"],
     "code": ["PYTHON", "JS", "CSS", "HTML", "C#"],
-    "ask_me_about": ["Web Development", "Discord", "IOT"],
+    "ask_me_about": ["Web Development", "Hardware Engineer", "IoT"],
     "technologies": {
         "front_end": {
-            "list": ["React", "JavaScript"]
+            "list": ["Vue", "JavaScript"]
         },
         "back_end": {
             "list": ["FastAPI", "MongoDB", "VB.NET"]
