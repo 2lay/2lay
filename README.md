@@ -13,10 +13,10 @@
 
 <br>
 
-### aboutMe.Js:
+### aboutMe.py:
 
 ```python
-2lay = {
+two_lay = {
     "pronouns": ["he", "him"],
     "code": ["PYTHON", "JS", "CSS", "HTML", "C#"],
     "ask_me_about": ["Web Development", "Discord", "IOT"],
