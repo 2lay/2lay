@@ -15,20 +15,21 @@
 
 ### aboutMe.Js:
 
-```javascript
-const 2lay = {
-   pronouns: "he" | "him",
-   code: [HTML,JS,CSS,C#,PYTHON],
-   askMeAbout: ["Web Development", "Discord", "IOT"],
-   technologies: {
-       frontEnd: [
-           list: {"React", "JavaScript"}
-       ],
-       backEnd: [
-           list: {"FastAPI", "MongoDB", "VB.NET"}
-       ]
-   ]
-};
+```python
+2lay = {
+    "pronouns": ["he", "him"],
+    "code": ["PYTHON", "JS", "CSS", "HTML", "C#"],
+    "ask_me_about": ["Web Development", "Discord", "IOT"],
+    "technologies": {
+        "front_end": {
+            "list": ["React", "JavaScript"]
+        },
+        "back_end": {
+            "list": ["FastAPI", "MongoDB", "VB.NET"]
+        }
+    }
+}
+
 ```
 
 ### Social Media:
