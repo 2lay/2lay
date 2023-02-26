@@ -5,11 +5,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-📃 ┃ <a href="https://tmw.gg/">![Weblicious](https://img.shields.io/badge/Minecraft-TMW.gg-brightgreen)</a> <a href="https://uploads.space">![SRMIST](https://img.shields.io/badge/Uploader-Uploads.Space-blue)</a>
+📃 My projects <a href="https://tmw.gg/">![Weblicious](https://img.shields.io/badge/Minecraft-TMW.gg-brightgreen)</a> <a href="https://uploads.space">![SRMIST](https://img.shields.io/badge/Uploader-Uploads.Space-blue)</a>
 
-🇸🇪  ┃ Sweden 🧆
+🇸🇪 I am from Sweden 🧆
 
-👀 ┃ ![](https://komarev.com/ghpvc/?username=2lay&color=dc143c)
+👀 Profile views ![](https://komarev.com/ghpvc/?username=2lay&color=dc143c)
 
 <br>
 
