@@ -30,6 +30,7 @@ Hi, I'm Ashley, a full stack developer from Sweden 🇸🇪
 **System administration:**
 
 <p>
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/linux.png" height="40" style="vertical-align:down; margin:4px" alt="linux">
 <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/docker.webp" height="40" style="vertical-align:down; margin:4px" alt="docker">
 <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/mongodb.png" height="40" style="vertical-align:down; margin:4px" alt="mongodb">
 <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/mysql.png" height="40" style="vertical-align:down; margin:4px" alt="mysql">
