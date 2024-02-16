@@ -23,6 +23,7 @@ Hi, I'm Ashley, a full stack developer from Sweden 🇸🇪
 <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/vue.png" height="40" style="vertical-align:down; margin:4px" alt="vue">
 <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/svelte.png" height="40" style="vertical-align:down; margin:4px" alt="svelte">
 <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/python.png" height="40" style="vertical-align:down; margin:4px" alt="python">
+  <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/fastapi.png" height="40" style="vertical-align:down; margin:4px" alt="fastapi">
 <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/cpp.png" height="40" style="vertical-align:down; margin:4px" alt="c++">
 <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/java.png" height="40" style="vertical-align:down; margin:4px" alt="java">
 </p>
