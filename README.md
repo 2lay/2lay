@@ -3,38 +3,39 @@
 
 Hi, I'm Ashley, a full stack developer from Sweden 🇸🇪
 
-<a href="#"><img align="right" src="https://avatars.githubusercontent.com/u/82117939" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://avatars.githubusercontent.com/u/82117939" width="200 " height="200" alt="GitHub avatar"/></a>
 
 
 ## ⛳️ Projects
 
 - <a href='https://github.com/2lay/2lay.net' target='_blank'>2lay/2lay.net</a> 
-  <br/> My personal website, now open source.
+  <br/> My personal website.
 - <a href='https://github.com/2lay/wiz-rest' target='_blank'>2lay/wiz-rest <sup>pre-release</sup></a>
-  <br/> Rest API for WiZ lights written in Python FastAPI. 
+  <br/> Rest API for WiZ lights written in FastAPI and Svelte. 
 
 ## 📚 My knowledge
 
 **Languages & Frameworks:**
 
 <p>
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/javascript.png" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/typescript.png" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/vue.png" height="40" style="vertical-align:down; margin:4px" alt="vue">
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/svelte.png" height="40" style="vertical-align:down; margin:4px" alt="svelte">
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/python.png" height="40" style="vertical-align:down; margin:4px" alt="python">
-  <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/fastapi.png" height="40" style="vertical-align:down; margin:4px" alt="fastapi">
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/cpp.png" height="40" style="vertical-align:down; margin:4px" alt="c++">
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/java.png" height="40" style="vertical-align:down; margin:4px" alt="java">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/javascript.png" height="40" style="vertical-align:down; margin:4px" alt="JavaScript" title="JavaScript">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/typescript.png" height="40" style="vertical-align:down; margin:4px" alt="TypeScript" title="TypeScript">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/python.png" height="40" style="vertical-align:down; margin:4px" alt="Python" title="Python">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/cpp.png" height="40" style="vertical-align:down; margin:4px" alt="C++" title="C++">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/java.png" height="40" style="vertical-align:down; margin:4px" alt="Java" title="Java">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/vue.png" height="40" style="vertical-align:down; margin:4px" alt="Vue.js" title="Vue.js">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/svelte.png" height="40" style="vertical-align:down; margin:4px" alt="Svelte" title="Svelte">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/fastapi.png" height="40" style="vertical-align:down; margin:4px" alt="FastAPI" title="FastAPI">
+
 </p>
 
 **System administration:**
 
 <p>
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/linux.png" height="40" style="vertical-align:down; margin:4px" alt="linux">
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/docker.webp" height="40" style="vertical-align:down; margin:4px" alt="docker">
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/mongodb.png" height="40" style="vertical-align:down; margin:4px" alt="mongodb">
-<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/mysql.png" height="40" style="vertical-align:down; margin:4px" alt="mysql">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/linux.png" height="40" style="vertical-align:down; margin:4px" alt="Linux" title="Linux">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/docker.webp" height="40" style="vertical-align:down; margin:4px" alt="Docker" title="Docker">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/mongodb.png" height="40" style="vertical-align:down; margin:4px" alt="MongoDB" title="MongoDB">
+<img src="https://raw.githubusercontent.com/2lay/2lay/main/img/mysql.png" height="40" style="vertical-align:down; margin:4px" alt="MySQL/MariaDB" title="MySQL/MariaDB">
 
 </p>
 
