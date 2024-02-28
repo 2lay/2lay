@@ -1,13 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://www.2lay.net/" target="_blank">Ashley</a></h1>
-
-
-Hi, I'm Ashley, a full stack developer from Sweden 🇸🇪
-
-<a href="#"><img align="right" src="https://avatars.githubusercontent.com/u/82117939" width="200 " height="200" alt="GitHub avatar"/></a>
-
+<p align="center">Hiiya I'm Ashley, a full-stack developer and sysadmin from Sweden! Like my stuff feel free to follow me or star them :)</p>
 
 ## ⛳️ Projects
-
+<a href="#"><img align="right" src="https://avatars.githubusercontent.com/u/82117939" width="128 " height="128" alt="GitHub avatar"/></a>
 - <a href='https://github.com/2lay/2lay.net' target='_blank'>2lay/2lay.net</a> 
   <br/> My personal website.
 - <a href='https://github.com/2lay/wiz-rest' target='_blank'>2lay/wiz-rest <sup>pre-release</sup></a>
@@ -46,5 +41,7 @@ You can reach me via email at **mail@2lay.net** or connect with me on Discord us
   <img src="https://discord.c99.nl/widget/theme-4/356867455303548929.png" alt="Discord user status"/>
 </p>
 
-<sup><sub>*read if cute*</sub></sup>
+<sup ><sub>*read if cute*</sub></sup>
+
+
 
