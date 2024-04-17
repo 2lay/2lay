@@ -5,8 +5,11 @@
 <a href="#"><img align="right" src="https://avatars.githubusercontent.com/u/82117939" width="128 " height="128" alt="GitHub avatar"/></a>
 - <a href='https://github.com/2lay/2lay.net' target='_blank'>2lay/2lay.net</a> 
   <br/> My personal website.
-- <a href='https://github.com/2lay/wiz-rest' target='_blank'>2lay/wiz-rest <sup>pre-release</sup></a>
-  <br/> Rest API for WiZ lights written in FastAPI and Svelte. 
+- <a href='https://github.com/2lay/dotfiles' target='_blank'>2lay/dotfiles <sup>wip</sup></a>
+  <br/> Dotfiles that i use on my devices
+
+<!-- - <a href='https://github.com/2lay/wiz-rest' target='_blank'>2lay/wiz-rest <sup>pre-release</sup></a>
+  <br/> Rest API for WiZ lights written in FastAPI and Svelte. -->
 
 ## 📚 My knowledge
 
