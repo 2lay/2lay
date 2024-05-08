@@ -12,9 +12,6 @@
   <br/> Rest API for WiZ lights written in FastAPI and Svelte. -->
 
 ## 📚 My knowledge
-
-**Technologies:**
-
 <p>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" height="40" style="vertical-align:down; margin:4px" alt="JavaScript" title="JavaScript">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" height="40" style="vertical-align:down; margin:4px" alt="TypeScript" title="TypeScript">
