@@ -48,10 +48,8 @@
 
 ## 📞 Contact me
 
-You can reach me via email at **mail@2lay.net** or connect with me on Discord using the username **2lay.** Feel free to check out my current Discord status below.
-<p align="left">
-  <img src="https://discord.c99.nl/widget/theme-4/356867455303548929.png" alt="Discord user status"/>
-</p>
+You can reach me via email at **mail@2lay.net** or connect with me on Discord using the username **2lay.**
+
 
 <sup ><sub>*read if cute*</sub></sup>
 
