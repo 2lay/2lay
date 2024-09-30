@@ -1,6 +1,7 @@
 <p float="left">
     <img src="img/av.png" width="220" align="left">
     <samp>
+      <br>
       hey i'm ashley
       <br>
       <br>
