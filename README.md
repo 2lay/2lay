@@ -1,5 +1,5 @@
 <p float="left">
-    <img src="img/av.png" width="225" align="left">
+    <img src="img/av.png" width="256" align="left">
     <samp>
       <br>
       hey i'm ashley
