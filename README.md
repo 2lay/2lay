@@ -1,6 +1,3 @@
-<p float="left">
-    <samp>
-      blep
-    </samp>
-</p>
-
+<div align="center">
+    <img src="https://moe-counter.glitch.me/get/@:2lay?theme=rule34">
+</div>
